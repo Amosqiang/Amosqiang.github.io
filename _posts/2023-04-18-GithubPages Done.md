@@ -30,5 +30,5 @@
 * Etc Gemfile, Openssl, Local serve
 	* Try and review the original problem
 
-![TheFirstBlogpage](https://cdnflow.oss-cn-hangzhou.aliyuncs.com/uPic/Frist%20Blogpage.png)
+![TheFirstBlogpage](https://github.com/Amosqiang/markdown-img/blob/908889c90c3d1844aeb1328227971103cb808a55/uPic/Frist%20Blogpage.png?raw=true)
 {:height="100px" width="400px"}

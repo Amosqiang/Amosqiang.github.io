@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-I like coding, i want to sharing cus there you are.
+ Share some value to make a better version of me
 
